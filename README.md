@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 👨🏽‍💻 Zahir HANICHE
+# 👨🏽‍💻 Yassine RATMAOUI
 
 ### Senior Fullstack Developer • Liferay Expert • Freelance Consultant • Mentor
 
@@ -12,7 +12,7 @@
 
 # 🌐 MY PORTFOLIO WEBSITE
 
-## 👉 **https://zahirhaniche.netlify.app/** 👈
+<!-- ## 👉 **https://zahirhaniche.netlify.app/** 👈 -->
 
 <p>
   Discover my projects, experience, tech stack and professional journey 🚀
