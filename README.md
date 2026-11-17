@@ -41,6 +41,7 @@ $yassine = [
 Mon projet d’application web autour de l’alimentation et du suivi du quotidien, développé avec **Laravel, Livewire et MySQL**.
 
 <!-- Ajouter ici le lien du dépôt GlucoMeals lorsqu’il sera confirmé. -->
+https://github.com/YassineRatmaoui59/glucomeals
 
 ---
 
