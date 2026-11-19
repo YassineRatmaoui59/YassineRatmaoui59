@@ -10,7 +10,7 @@ Je développe des applications web avec Laravel et Symfony, et des interfaces in
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=php,laravel,symfony,js,ts,html,css,sass,react,tailwind,alpinejs,bootstrap,vite,mysql,sqlite,docker,git,github,npm,phpstorm,vscode,bash,powershell&perline=12" alt="Technologies : PHP, Laravel, Symfony, JavaScript, TypeScript, HTML, CSS, Sass, React, Tailwind CSS, Alpine.js, Bootstrap, Vite, MySQL, SQLite, Docker, Git, GitHub, npm, PhpStorm, VS Code, Bash, PowerShell" />
+<img src="https://skillicons.dev/icons?i=php,laravel,symfony,js,ts,html,css,sass,react,tailwind,alpinejs,bootstrap,vite,mysql,sqlite,docker,linux,git,github,npm,phpstorm,vscode,bash,powershell&perline=12" alt="Technologies : PHP, Laravel, Symfony, JavaScript, TypeScript, HTML, CSS, Sass, React, Tailwind CSS, Alpine.js, Bootstrap, Vite, MySQL, SQLite, Docker, Linux, Git, GitHub, npm, PhpStorm, VS Code, Bash, PowerShell" />
 
 </div>
 
@@ -24,7 +24,7 @@ $yassine = [
     'back-end'  => ['PHP 8', 'Laravel', 'Livewire', 'Filament', 'Symfony', 'API REST'],
     'front-end' => ['JavaScript', 'TypeScript', 'React', 'Alpine.js', 'Tailwind CSS'],
     'base de données'   => ['MySQL', 'MariaDB', 'SQLite'],
-    'outils'    => ['Docker', 'Git', 'Composer', 'npm', 'Vite'],
+    'outils'    => ['Docker', 'Linux', 'Git', 'Composer', 'npm', 'Vite'],
     'projet'    => 'GlucoMeals',
 ];
 ```
@@ -53,7 +53,7 @@ $yassine = [
 
 ### Outils & environnement
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Laravel Sail](https://img.shields.io/badge/Laravel_Sail-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=flat-square&logo=phpstorm&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=vscodium&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=gnometerminal&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Laravel Sail](https://img.shields.io/badge/Laravel_Sail-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=flat-square&logo=phpstorm&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=vscodium&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=gnometerminal&logoColor=white)
 
 ---
 
