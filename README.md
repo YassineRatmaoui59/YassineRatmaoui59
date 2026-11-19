@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=9DFBCA&center=true&vCenter=true&width=620&height=50&lines=D%C3%A9veloppeur%20web%20fullstack;PHP%20%C2%B7%20Laravel%20%C2%B7%20Symfony%20%C2%B7%20React;Des%20applications%20utiles%2C%20scalables%20et%20performantes;Ouvert%20au%20CDI%20%C2%B7%20Paris%20/%20Lille" alt="Développeur web fullstack. PHP, Laravel, Symfony, React. Des applications utiles, scalables et performantes. Ouvert au CDI à Paris ou Lille." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=9DFBCA&center=true&vCenter=true&width=760&height=50&lines=D%C3%A9veloppeur%20web%20fullstack;PHP%20%C2%B7%20Laravel%20%C2%B7%20Symfony%20%C2%B7%20React;Des%20applications%20utiles%2C%20scalables%20et%20performantes;Ouvert%20au%20CDI%20%C2%B7%20Paris%20/%20Lille" alt="Développeur web fullstack. PHP, Laravel, Symfony, React. Des applications utiles, scalables et performantes. Ouvert au CDI à Paris ou Lille." />
 
 Je développe des applications web avec Laravel et Symfony, et des interfaces interactives avec Livewire, Alpine.js et React.
 
