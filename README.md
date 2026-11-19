@@ -1,8 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0060E6,55:0A0118,100:0F5132&text=Yassine%20Ratmaoui&fontColor=F8F7F2&fontSize=56&fontAlignY=38&animation=fadeIn&desc=Fullstack%20%C2%B7%20PHP%20%2F%20Laravel%20%2F%20Symfony%20et%20React&descAlignY=60&descSize=18" alt="Yassine Ratmaoui, développeur web fullstack PHP/Laravel/Symfony et React" width="100%" />
+
 <div align="center">
 
-# 👨‍💻 Yassine Ratmaoui
-
-### Développeur web fullstack · PHP/Laravel/Symfony & React
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=9DFBCA&center=true&vCenter=true&width=620&height=50&lines=D%C3%A9veloppeur%20web%20fullstack;PHP%20%C2%B7%20Laravel%20%C2%B7%20Symfony%20%C2%B7%20React;Des%20applications%20utiles%2C%20scalables%20et%20performantes;Ouvert%20au%20CDI%20%C2%B7%20Paris%20/%20Lille" alt="Développeur web fullstack. PHP, Laravel, Symfony, React. Des applications utiles, scalables et performantes. Ouvert au CDI à Paris ou Lille." />
 
 Je développe des applications web avec Laravel et Symfony, et des interfaces interactives avec Livewire, Alpine.js et React.
 
@@ -96,3 +96,5 @@ Pour discuter de mes projets ou de développement web, retrouve-moi sur LinkedIn
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yassine_Ratmaoui-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/yassine-ratmaoui-5b5956203/)
 [![GitHub](https://img.shields.io/badge/GitHub-YassineRatmaoui59-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassineRatmaoui59)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:9DFBCA,30:C6A15B,100:0F5132" alt="" width="100%" />
