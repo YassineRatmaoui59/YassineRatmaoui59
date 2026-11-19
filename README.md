@@ -17,7 +17,7 @@ Je développe des applications web avec Laravel et des interfaces interactives a
 ```php
 $yassine = [
     'univers' => 'Développement web',
-    'stack'   => ['PHP', 'Laravel', 'Livewire', 'MySQL'],
+    'stack'   => ['PHP', 'TALL stack', 'Symfony','MySQL', 'Javascript/TypeScript', 'React'],
     'projet'  => 'GlucoMeals',
 ];
 ```
