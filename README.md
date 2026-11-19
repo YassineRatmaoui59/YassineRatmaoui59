@@ -32,6 +32,7 @@ Je développe des applications web avec Laravel et Symfony, et des interfaces in
 <a href="https://www.npmjs.com"><img src="https://skillicons.dev/icons?i=npm" alt="npm" title="npm" width="48" height="48" /></a>
 <a href="https://www.jetbrains.com/phpstorm/"><img src="https://skillicons.dev/icons?i=phpstorm" alt="PhpStorm" title="PhpStorm" width="48" height="48" /></a>
 <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" width="48" height="48" /></a>
+<a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" width="48" height="48" /></a>
 <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash" width="48" height="48" /></a>
 <a href="https://learn.microsoft.com/powershell/"><img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" title="PowerShell" width="48" height="48" /></a>
 
@@ -47,7 +48,7 @@ $yassine = [
     'back-end'  => ['PHP 8', 'Laravel', 'Livewire', 'Filament', 'Symfony', 'API REST'],
     'front-end' => ['JavaScript', 'TypeScript', 'React', 'Alpine.js', 'Tailwind CSS'],
     'base de données'   => ['MySQL', 'MariaDB', 'SQLite'],
-    'outils'    => ['Docker', 'Linux', 'Git', 'Composer', 'npm', 'Vite'],
+    'outils'    => ['Docker', 'Linux', 'Git', 'Composer', 'npm', 'Vite', 'Figma'],
     'projet'    => 'GlucoMeals',
 ];
 ```
@@ -76,7 +77,7 @@ $yassine = [
 
 ### Outils & environnement
 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com) [![Laravel Sail](https://img.shields.io/badge/Laravel_Sail-2496ED?style=flat-square&logo=docker&logoColor=white)](https://laravel.com/docs/sail) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.kernel.org) [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com) [![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white)](https://getcomposer.org) [![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com) [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vite.dev) [![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=flat-square&logo=phpstorm&logoColor=white)](https://www.jetbrains.com/phpstorm/) [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=vscodium&logoColor=white)](https://code.visualstudio.com) [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/) [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=gnometerminal&logoColor=white)](https://learn.microsoft.com/powershell/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com) [![Laravel Sail](https://img.shields.io/badge/Laravel_Sail-2496ED?style=flat-square&logo=docker&logoColor=white)](https://laravel.com/docs/sail) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.kernel.org) [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com) [![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white)](https://getcomposer.org) [![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com) [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vite.dev) [![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=flat-square&logo=phpstorm&logoColor=white)](https://www.jetbrains.com/phpstorm/) [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=vscodium&logoColor=white)](https://code.visualstudio.com) [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com) [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/) [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=gnometerminal&logoColor=white)](https://learn.microsoft.com/powershell/)
 
 ---
 
