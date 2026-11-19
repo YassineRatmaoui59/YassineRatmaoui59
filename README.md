@@ -23,7 +23,7 @@ $yassine = [
     'univers'   => 'Développement web fullstack',
     'back-end'  => ['PHP 8', 'Laravel', 'Livewire', 'Filament', 'Symfony', 'API REST'],
     'front-end' => ['JavaScript', 'TypeScript', 'React', 'Alpine.js', 'Tailwind CSS'],
-    'données'   => ['MySQL', 'MariaDB', 'SQLite'],
+    'base de données'   => ['MySQL', 'MariaDB', 'SQLite'],
     'outils'    => ['Docker', 'Git', 'Composer', 'npm', 'Vite'],
     'projet'    => 'GlucoMeals',
 ];
